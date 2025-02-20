@@ -13,6 +13,23 @@ checks if the list has contents, if it does it will proceed to calculate the ave
 as usual, but if it is empty, it will return 0.
 """
 
+""" 
+a. What did you learn about debugging in this activity?
+I learned that debugging is a very importtant part in programming. Considering that
+the program will not always work as it is intended to. Looking out for potential bugs
+and fixing them is a must have skill in developing and maintaining software.
+
+b. What coding practices do you think would help prevent similar bugs in the future?
+Some of the coding practices which would help prevent similar bugs in the future are:
+- Properly commenting and documenting the code.
+- Writing clean and readable code.
+- Using tools like debuggers and linters to catch potential bugs.
+- Extensive testing of the code specially edge cases.
+- Conducting code reviews with peers to get feedback on the code.
+- Avoid over reliance on LLMs for code generation to have more understanding of the code.
+These are just few of the practices that I've to learn the hard way and I'm certain that
+it can greatly help in preventing similar bugs in the future.
+"""
 
 import random
 
